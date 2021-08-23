@@ -28,12 +28,13 @@ Release Date | Apr 13, 2020
 - Sync latest sources.
 - Fixed FastbootD.
 - Fixed Flashlight.
+- Fixed theme auto restoration during reboot.
 - Enabled backup and flash support for all mandatory partitions. 
 - Fixed status bar padding.
 
 ## Build Date 
 
-10-08-2021 GC 7:52:45 GMT+3
+2021-08-13 GC 8:12:00 GMT+3 <b>Made with ❤️ in [Ethiopia](https://en.m.wikipedia.org/wiki/Ethiopia), [Jimmaa](https://en.m.wikipedia.org/wiki/Jimma)</b>
 
 ## Credit
 
