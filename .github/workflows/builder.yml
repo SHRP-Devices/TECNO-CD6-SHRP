@@ -14,7 +14,7 @@ on:
       LIBRARY_BRANCH:
         description: 'LIBRARY_BRANCH'
         required: true
-        default: 'v3_10.0'
+        default: 'v3_11.0'
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
